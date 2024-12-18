@@ -1,0 +1,9 @@
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/task3.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/task3_autogen_timestamp_deps.dir
+D:/CPP-OOP/task3/qt/task3/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/task3_autogen.dir
